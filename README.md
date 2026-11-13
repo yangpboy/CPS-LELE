@@ -41,4 +41,4 @@ LELE is an interactive musical instrument inspired by the ukulele. It transforms
 
 | Document | Description |
 |---|---|
-| [Project Reflection](Project_Reflection.docx) | Project limitations, challenges and future improvements. |
+| [Project Reflection](Project%20Reflection.docx) | Project limitations, challenges and future improvements. |
