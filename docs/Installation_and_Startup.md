@@ -151,4 +151,4 @@ When the system is functioning correctly, changes in body posture should produce
 - Right leg movement controls the fourth stepper motor.
 - Hip-related movement changes the servo-driven response.
 
-If the physical output does not respond, check each communication stage separately using the system's [Testing and Debugging](docs/Testing%20and%20Debugging.md)guide.
+If the physical output does not respond, check each communication stage separately using the system's [Testing and Debugging](Testing%20and%20Debugging.md) guide.
