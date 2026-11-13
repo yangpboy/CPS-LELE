@@ -25,7 +25,7 @@ LELE is an interactive musical instrument inspired by the ukulele. It transforms
 | [Hardware Design](docs/Hardware_Design.md) | Components, circuit diagram, wiring and power supply. |
 | [Software Design](docs/Software_Design.md) | System architecture, data flow and input-output mapping. |
 | [Machine Learning](docs/Machine_Learning.md) | Wekinator configuration, training process, model evaluation and limitations. |
-| [Testing & Debugging](docs/Testing_and_Debugging.md) | System testing, troubleshooting and debugging decision tree. |
+| [Testing & Debugging](docs/Testing%20and%20Debugging.md) | System testing, troubleshooting and debugging decision tree. |
 
 ### Source Code
 
