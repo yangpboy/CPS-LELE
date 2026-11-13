@@ -20,21 +20,21 @@ LELE is an interactive musical instrument inspired by the ukulele. It transforms
 
 | Section | Description |
 |---|---|
+| [Installation & Startup Guide](start up guide.docx) | Dependencies, hardware setup and step-by-step instructions for running Lele. |
 | [Mechanical Design](docs/Mechanical_Design.md) | Mechanical structure, materials, fabrication and design decisions. |
 | [Hardware Design](docs/Hardware_Design.md) | Components, circuit diagram, wiring and power supply. |
 | [Software Design](docs/Software_Design.md) | System architecture, data flow and input-output mapping. |
 | [Machine Learning](docs/Machine_Learning.md) | Wekinator configuration, training process, model evaluation and limitations. |
-| [Installation & Startup Guide](docs/Installation_and_Startup.md) | Dependencies, hardware setup and step-by-step instructions for running Lele. |
 | [Testing & Debugging](docs/Testing_and_Debugging.md) | System testing, troubleshooting and debugging decision tree. |
 
 ### Source Code
 
 | Folder | Description |
 |---|---|
-| [Python](python/) | Body tracking and OSC input using MediaPipe. |
-| [Wekinator](WekinatorProject/) | Machine learning project and model configuration. |
-| [Processing](processing/) | OSC communication and serial data transmission. |
-| [Arduino](arduino/) | Stepper motor and servo control. |
+| [Python](code/python/) | Body tracking and OSC input using MediaPipe. |
+| [Wekinator](code/WekinatorProject/) | Machine learning project and model configuration. |
+| [Processing](code/processing/) | OSC communication and serial data transmission. |
+| [Arduino](code/arduino/final/) | Stepper motor and servo control. |
 | [Python Requirements](requirements.txt) | Required Python libraries. |
 
 ### Additional Resources
