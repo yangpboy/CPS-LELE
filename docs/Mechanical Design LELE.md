@@ -28,7 +28,8 @@ The drawing shows the build progressing from individual modules to the complete 
 
 ## Materials and components
 
-<img width="9068" height="6568" alt="Frame 32" src="https://github.com/user-attachments/assets/8c1f61b6-0dc1-490b-a9dc-82e157c290b1" />
+<img width="9068" height="4032" alt="Frame 33" src="https://github.com/user-attachments/assets/b6819e85-83ef-4f46-9935-bc5d822e7968" />
+
 
 | Component group | Material / specification | Role in the mechanism |
 |---|---|---|
