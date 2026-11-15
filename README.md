@@ -20,7 +20,7 @@ LELE is an interactive musical instrument inspired by the ukulele. It transforms
 
 | Section | Description |
 |---|---|
-| [Installation & Startup Guide](docs/Installation%20and%20Startup.md) | Dependencies, hardware setup and step-by-step instructions for running Lele. |
+| [Installation & Startup Guide](docs/Installation_and_Startup.md) | Dependencies, hardware setup and step-by-step instructions for running Lele. |
 | [Mechanical Design LELE](docs/Mechanical%20Design%20LELE.md) &  [Mechanical Design UKE](docs/Mechanical%20Design%20UKE.md) | Mechanical structure, materials, fabrication and design decisions. |
 | [Hardware Design](docs/Hardware%20Design.md) | Components, circuit diagram, wiring and power supply. |
 | [Software Design](docs/Software%20Design.md) | System architecture, data flow and input-output mapping. |
