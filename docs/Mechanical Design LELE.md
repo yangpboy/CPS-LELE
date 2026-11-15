@@ -24,7 +24,15 @@ LELE arranges four matching string modules around a shared platform. Each module
 
 The drawing shows the build progressing from individual modules to the complete four-sided instrument:
 
-待填
+1. Assemble the wooden frame.
+2. Assemble the decks and lead screw mechanism.
+3. Fit the lower decks and lead screw into the frame.
+4. Install the top deck and guide rods.
+5. Fit and tension the string.
+6. Assemble the base and mount the servos.
+7. Attach the strumming arms and picks.
+8. Mount the first string module on the base.
+9. Install the remaining string modules.
 
 ## Materials and components
 
